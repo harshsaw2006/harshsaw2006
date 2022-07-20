@@ -1338,3 +1338,351 @@ h4 {
 body{
     background-color:paleturquoise;
 }
+
+
+
+
+
+
+
+
+
+<!--This is for eigth page  -->
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="caso.css">
+    <!-- <style>
+        p {
+            color: rgb(167, 234, 12);
+            font-size: 15px;
+        }
+
+        li {
+            color: rgb(167, 234, 12);
+        }
+
+        h1 {
+            color: blanchedalmond;
+        }
+
+        em {
+            color: rgb(213, 248, 12);
+        }
+
+        strong {
+            color: beige;
+        }
+
+        h4 {
+            color: beige;
+        }
+
+        blockquote {
+            color: aquamarine;
+        }
+
+        q {
+            color: rgb(167, 234, 12);
+        }
+
+        bdo {
+            color: rgb(240, 250, 48);
+        }
+    </style>
+    
+    <style type="text/css" media="print">
+        p {
+            color: purple;
+            
+        }
+
+        li {
+            color: purple;
+        }
+
+        h1 {
+            color:purple;
+        }
+
+        em {
+            color: purple;
+        }
+
+        strong {
+            color: purple;
+        }
+
+        h4 {
+            color:purple;
+        }
+
+        blockquote {
+            color:purple;
+        }
+
+        q {
+            color:purple;
+        }
+
+        bdo {
+            color: purple;
+        }
+    </style>
+
+    
+    <style type="text/css" media="screen and (max-width:1000px)">
+        p {
+            color: rgb(252, 250, 252);
+        }
+
+        li {
+            color: rgb(252, 250, 252);
+        }
+
+        h1 {
+            color: rgb(252, 250, 252);
+        }
+
+        em {
+            color: rgb(252, 250, 252);
+        }
+
+        strong {
+            color: rgb(252, 250, 252);
+        }
+
+        h4 {
+            color: rgb(252, 250, 252);
+        }
+
+        blockquote {
+            color: rgb(252, 250, 252);
+        }
+
+        q {
+            color: rgb(252, 250, 252);
+        }
+
+        bdo {
+            color: rgb(252, 250, 252);
+        }
+    </style> -->
+</head>
+
+<body>
+    <h1>So from here our siy-fiy experiment will run</h1>
+    pre tag means pre-formatted text
+    <pre>
+        I went to school 
+        at 09:20 AM but 
+        the classteacher have a misconseption with 
+        me. so, he gave me news to speak on going in the stage 
+        and I am suffring from stage fear
+        as he thinks that I am a good student 
+        but Is it really. Is really I am a good student
+        because a have never top in my class
+    </pre>
+    <p style="color:antiquewhite; background-color:black;">Harsh Saw</p>
+    <p style="background-color:black; color:aqua;">Harsh Saw</p>
+    <p style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Harsh Saw</p>
+    <p style="font-size:300%;">Harsh Saw</p>
+    <p style="text-align:justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt blanditiis autem ab
+        a. Cumque vero amet non modi nam voluptates quas totam atque consectetur, illum vitae eveniet aut maxime nulla
+        qui dolor! Eos et dolorum tempora earum natus quam similique.Lorem ipsum dolor sit amet consectetur adipisicing
+        elit. Est unde nemo minus distinctio ad deserunt totam earum cum ducimus? Temporibus dicta quibusdam aut quod
+        iusto illum deserunt fugit quis velit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur sint
+        recusandae eaque amet omnis, rerum labore cum illum laudantium odio iusto quas qui voluptate sapiente optio
+        laboriosam saepe. Ut, perferendis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita odit vero
+        placeat debitis mollitia voluptas vel, quia corrupti eligendi nesciunt.Harsh Saw I a good person</p>
+
+
+
+
+    <p style="text-align:inherit">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, quas dolores ipsa
+        quibusdam voluptatum porro cum fugit consequuntur commodi debitis. Eveniet, voluptate fuga reiciendis vero
+        temporibus repellendus placeat odit enim praesentium iusto ipsam corporis consequatur animi natus ut aspernatur
+        atque ducimus ex expedita laborum a numquam autem. Veniam vero beatae sint porro aspernatur labore, provident ad
+        voluptatum quisquam fuga quibusdam enim est voluptatibus eius repellendus repudiandae distinctio voluptas
+        veritatis atque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis culpa, aperiam odio
+        corrupti magnam, quo et cum, porro fugiat vero aliquid quos consectetur rerum a alias. Quibusdam qui obcaecati
+        accusamus? Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita odit vero placeat debitis mollitia
+        voluptas vel, quia corrupti eligendi nesciunt.Harsh Saw I a good person</p>
+
+
+
+
+    <p style="text-align:unset">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ducimus laudantium
+        corporis accusamus officiis, nam fugit alias aliquid dolor consequuntur molestiae voluptas commodi soluta,
+        necessitatibus asperiores porro? Nobis quod eius ea, numquam, odit cum aut incidunt expedita debitis
+        perspiciatis reiciendis commodi iusto soluta fuga asperiores assumenda! Fuga ex consequatur enim tempora
+        voluptatum saepe corrupti adipisci sequi quae deserunt eaque, modi ipsum quaerat dolores voluptatem odio id
+        rerum repudiandae. Atque, recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore laudantium
+        reiciendis beatae pariatur. Quia quod aliquam distinctio, laborum aut, aperiam corrupti culpa voluptate
+        consequatur ut commodi. Debitis, quam aspernatur. Nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Expedita odit vero placeat debitis mollitia voluptas vel, quia corrupti eligendi nesciunt.Harsh Saw I a good
+        person</p>
+
+    <ul>
+        <li>This is we how format in HTML
+            <ol>
+                <li><b>harsh Saw so this is a bold text </b> </li>
+                <li><strong>harsh Saw so this is a bold text </strong> </li>
+                <li><em>This is emphasized</em> </li>
+                <li><i>This by default Italic</i> </li>
+                <li>Lorem, ipsum dolor.<mark>I am Harsh Saw </mark>Lorem ipsum dolor sit amet.</li>
+                inserted text - ins
+                <li>Harsh Saw is <ins>a</ins> good <ins>person</ins> at persent <ins>20</ins>22</li>
+                <li>Harsh <del>Kumar</del> Saw</li>
+                <li>H<sub>2</sub>O</li>
+                <li>Harsh <sup>kumar</sup> Saw</li>
+                <li>Harsh is <small>not</small> a good boy</li>
+                <li>Harsh is <big>not</big> a good boy</li>
+            </ol>
+        </li>
+    </ul>
+    We use when we use out sider web site or out sider source to extract some tag, article and section and place it to
+    our own website and there is a cite attributes of blockquote tag which is use for. It also tells the browser that
+    the content in it is taken from other site <br>
+    <blockquote>
+        <p> I am HArsh Saw Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, illo quidem tenetur a
+            nesciunt iure voluptates exercitationem maxime, et quaerat incidunt, numquam distinctio iusto! Fuga enim
+            optio quos maxime dolor.</p>
+    </blockquote>
+
+    <p>Harsh is a good boy and he is giving you a link of the beautiful side
+    <blockquote> https://www.google.com</blockquote>and I want to say you that this is not a very simple and beautiful
+    site but ist is also the world widely most useful visitible site, Hence it is not. </p>
+    As you can see here that after blockquote element the text is in black color, so we can conclude that after
+    blockquote any tag ends. <br>
+    <p>Harsh is a good boy and he is giving you a link of the beautiful side
+    <blockquote> https://www.google.com</blockquote>
+    </p>
+    <p> and I want to say you that this is not a very simple and beautiful site but ist is also the world widely most
+        useful visitible site, Hence it is not. </p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur perferendis natus exercitationem
+        voluptatibus, sint libero architecto assumenda neque animi numquam adipisci dignissimos, vitae expedita
+        voluptates quis aut quae saepe? Eveniet? </p>
+    <blockquote cite="https://www.worldometers.info/gdp"> What is GDP? <br> DEFINITION :- GDP stands for "Gross Domestic
+        Product" and represents the total monetary value of all finalgoods and services produced (and sold on the
+        market) within a country during a period of time(typically 1 year). <br>PURPOSE:-GDP is the most commonly used
+        measure of economic activity</blockquote>
+
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, voluptatibus?</p>
+    q tag defines quotation <br>
+    <q>Harsh Saw is a good boy Is it really say yes or not</q>
+    If the address tag in indie the bogy tag then it give the search engine the author or owner contact information of
+    the document. If it is written within the article then it gives the author or owner information of the article <br>
+    <address>harshsaw08@gmail.com
+        deepikakri3103@gmail.com
+        This all is written by Harsh Saw</address>
+    The gap between harshsaw08 and deepikakri is the line break <br>
+
+    Owner name in not written in the cite tag. For example:- Author of the book is not written but we can write its book
+    name
+    or simply its main motive is to hihlight the title name<br>
+    <p>Lorem ipsum,<cite>dolor sit amet consectetur adipisicing elit.</cite> Explicabo, quibusdam?</p>
+    Bdo tag is used to override the current text direction. It has only one attribute "dir" - direction and after that
+    it has two value itr left to right or rtl right to left <br>
+    <bdo dir="rtl"> Harsh Saw Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique est officiis at
+        nostrum. Quo blanditiis dolorem animi quae quasi optio recusandae?</bdo> <br>
+    <bdo dir="ltr"> Harsh Saw Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique est officiis at
+        nostrum. Quo blanditiis dolorem animi quae quasi optio recusandae?</bdo>
+    <p style="background-color:Dodgerblue;border:2px solid Black;">Harsh Saw is a good boy! Is it really true.
+        Oluptatibus, vel?</p>
+    <p style="color:Dodgerblue; background-color:bisque;border:2px solid Black;">Harsh Saw is a good boy! Is it really
+        true. Oluptatibus, vel?</p>
+    <p style="background-color:Tomato;border:2px solid Black;">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Doloribus accusamus quod mollitia, soluta consequuntur error minima reprehenderit tempora. Voluptatibus, vel?
+    </p>
+    <p>style tag is also known as mini css and inline css it is applied in the head tag</p>
+    <p>It has two attributes </p>
+    <p>Type and media</p>
+    <p>Media is a very big attribute. It is used to design the display of your website in phone, laptop, computer and
+        tabs etc. </p>
+        <p style="color:rgb(0, 0, 0);">Harsh Saw</p>
+        <p style="color:rgb(255, 255, 255);">Harsh Saw</p>
+        <p style="color:rgb(0, 255, 0);">Harsh Saw</p>
+        <p>if you will write macthing numbers in the r, g, b then its color will always be somehow blackish</p>
+        <p style= "color:#0000ff;">Harsh Saw </p>
+        <p style= "color:#ff0000;">Harsh Saw </p>
+        <p style= "color:#00ff00;">Harsh Saw </p>
+        <p style= "color:#000000;">Harsh Saw (Hello) </p>
+        <p style= "color:#101010;">Harsh Saw</p>
+        <p style= "color:#202020;">Harsh Saw</p>
+        <p style= "color:#303030;">Harsh Saw</p>
+        <p style= "color:#404040;">Harsh Saw</p>
+        <p style= "color:#505050;">Harsh Saw</p>
+        <p style= "color:#606060;">Harsh Saw</p>
+        <p style= "color:#707070;">Harsh Saw</p>
+        <p style= "color:#808080;">Harsh Saw</p>
+        <p style= "color:#909090;">Harsh Saw</p>
+        <p style= "color:#a0a090;">Harsh Saw</p>
+        <p style= "color:#b0b090;">Harsh Saw</p>
+        <p style= "color:#c0c090;">Harsh Saw</p>
+        <p style= "color:#d0d090;">Harsh Saw</p>
+        <p style= "color:#e0e090;">Harsh Saw</p>
+        <p style= "color:#f0f090;">Harsh Saw</p>
+        <p>This 0 - f is hexadecimal </p>
+        <p style="color:hsl(0, 100%,10%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(25, 0%, 20%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(50, 80%, 30%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(75, 0%, 40%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(100, 60%, 50%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(125, 0%, 60%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(150, 40%, 70%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(175, 0%, 80%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(200, 20%, 90%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(225, 90%, 50%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(250, 0%, 50%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(275, 45%, 50%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(360, 25%, 50%);">Harsh Saw (2022-83)</p>
+        <p style="color:hsl(360, 0%, 50%);">Harsh Saw (2022-83)</p>
+        <p>Now we are going  to conduct HSLA - HSL with Alpha</p>
+        <p style="color:hsla(79, 100%, 35%, 0.2);">Harsh Saw (Google CEO)</p>
+        <p style="color:hsla(79, 100%, 35%, 0.4);">Harsh Saw (Google CEO)</p>
+        <p style="color:hsla(79, 100%, 35%, 0.6);">Harsh Saw (Google CEO)</p>
+        <p style="color:hsla(79, 100%, 35%, 0.8);">Harsh Saw (Google CEO)</p>
+        <p style="color:hsla(79, 100%, 35%, 1.0);">Harsh Saw (Google CEO)</p>
+        <ul>
+            <li>
+                <ol>
+                    <li>
+                        <div style="background-color:rgb(225,99,71)">Harsh Saw </div>
+                    </li> <br>
+                    <li>
+                        <div style="background-color:#ff6347">Free Delya Hoeya</div>
+                    </li> <br>
+                    <li>
+                        <div style="background-color:hsl(9, 100%, 64%)">Shu Kurnie</div>
+                    </li> <br>
+                </ol>
+            </li>
+            <li>The following two div tag elements have their background color set with RGBA and HSLA values, which adds
+                Alpha channel to the color(here we have 50% transparency)
+                <ol>
+                    <li style="background-color:rgba(255, 99, 71, 0.5)">Harsh Saw</li> <br>
+                    <li style="background-color:hsla(9, 100%, 64%, 0.5)">Xenzender Sakadera</li>
+                </ol>
+            </li>
+        </ul>
+        <a href="https://unsplash.com/" >
+            <img src="https://images.unsplash.com/photo-1657503872279-fdfd448b23a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60" height="100" width="150" alt="Sorry, we do not want to show you that beautiful photo" target="_blank">
+        </a>
+        <p>(Note:- Remember that wjen img tag in inside the a tag then the attributes of a tag will not work on it, whereas its attribute will work on the img element)</p>
