@@ -1686,3 +1686,88 @@ body{
             <img src="https://images.unsplash.com/photo-1657503872279-fdfd448b23a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60" height="100" width="150" alt="Sorry, we do not want to show you that beautiful photo" target="_blank">
         </a>
         <p>(Note:- Remember that wjen img tag in inside the a tag then the attributes of a tag will not work on it, whereas its attribute will work on the img element)</p>
+        
+        
+        
+
+
+
+
+<!--This for ninth page. NekolusTesla.html -->
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="lushow.css">
+</head>
+
+<body>
+    <p style="color: rgb(0, 0, 0);">Harsh Saw</p>
+    <p style="color: rgb(255, 255, 255);">Harsh Saw</p>
+    <p style="color: rgb(0, 255, 0);"> Harsh Saw</p>
+    <p style="color: rgb(255, 0, 0);"> Harsh Saw</p>
+    <p style="color: rgb(0, 0, 255);"> Harsh Saw</p>
+    <p style="color: rgba(0, 0, 0,1.0);">Harsh Saw</p>
+    <p style="color: rgba(0, 0, 0, 0.8);">Harsh Saw</p>
+    <p style="color: rgba(0, 0, 0, 0.6);">Harsh Saw</p>
+    <p style="color: rgba(0, 0, 0, 0.4);">Harsh Saw</p>
+    <p style="color: rgba(0, 0, 0, 0.2);">Harsh Saw</p>
+    <p style="color: rgba(0, 0, 0, 0.1);">Harsh Saw</p>
+    <p style="color: #ff0000">Harsh Saw</p>
+    <p style="color: #0000ff">Harsh Saw</p>
+    <p style="color: #3cb371">Harsh Saw</p>
+    <p style="color: #ee82ee">Harsh Saw</p>
+    <p style="color: #ffa500">Harsh Saw</p>
+    <p style="color: #6a5acd">Harsh Saw</p>
+    <p style="color: #ff6347">Harsh Saw</p>
+    <!-- If is cheated by Hsarsh Saw  -->
+    <p style="color: #404040">Harsh Saw</p>
+    <p style="color: #686868">Harsh Saw</p>
+    <p style="color: #a0a0a0">Harsh Saw</p>
+    <p style="color: #bebebe">Harsh Saw</p>
+    <p style="color: #dcdcdc">Harsh Saw</p>
+    <p style="color: #f8f8f8">Harsh Saw</p>
+    <!-- If a cheated by Harsh Saw -->
+    <p>HSL stands for hue, saturation and lightness</p>
+    
+
+</body>
+
+</html>
+
+
+
+
+
+
+<!-- This is for tenth page.-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
